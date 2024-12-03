@@ -1,0 +1,11 @@
+JavaScript animace jsou oproti CSS animacím flexibilnější a více rozšířené, nabízejí více možností a jsou ideální pro složitější výpočty. dokáže navíc interagovat v reálném čase, jako je například sledování pohybu myši nebo psaní na klávesnici. dokáže pomocí interakcí změnit co se děje na obrazovce což CSS animace neumí.
+
+JavaScript je ale náročnější na výkon počítače a při velkých animacích a proto by se to se špatnou optimalizací mohlo na některých slabších zařízeních sekat. na změnu barvy, fontu nebo velikosti je lepší využívat CSS protože je na to stavěné a je to efektivnější.
+
+
+
+
+https://medium.com/@cho.hwang/animation-performance-101-optimizing-javascript-b658943b37c8
+https://www.reddit.com/r/webdev/comments/88jibi/is_it_better_practice_to_use_css_or_javascript/
+https://www.quora.com/What-are-some-of-the-pros-and-cons-for-CSS-animations-versus-JavaScript-animations
+https://web.dev/articles/css-vs-javascript#animate_with_javascript_and_the_web_animations_api
